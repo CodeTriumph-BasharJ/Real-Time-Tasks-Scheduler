@@ -1,4 +1,4 @@
-/* Authors: Bashar Jirjees & Nicholas McLennan*/
+/* Authors: Bashar Jirjees & Nicholas McLennan */
 
 /* Importing the Needed Modules */
 #include <stdint.h>
